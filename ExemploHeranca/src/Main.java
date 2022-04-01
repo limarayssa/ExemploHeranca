@@ -8,5 +8,9 @@ public static void main(String[] args) {
 	carro1.modelo = "Fiesta";
 	carro1.setQuatroPortas(true);
 	
+	/* alo testando */
+	
+	System.out.println("Dança gatinho dança");
+	
 }
 }
