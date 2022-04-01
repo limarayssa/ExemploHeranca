@@ -9,7 +9,7 @@ public class Veiculo {
 	}
 	
 	public void imprimirDados () {
-		System.out.println(marca + "" + modelo + "" + ano);
+		System.out.println(marca + " " + modelo + " " + ano);
 	}
 	
 	public String getMarca() {
